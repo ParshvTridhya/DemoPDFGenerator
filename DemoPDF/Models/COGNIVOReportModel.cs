@@ -7,5 +7,6 @@ namespace DemoPDF.Models
 {
     public class COGNIVOReportModel
     {
+        public int MyProperty { get; set; }
     }
 }
